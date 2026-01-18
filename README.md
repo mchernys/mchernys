@@ -14,4 +14,4 @@
 - [IgDiscover](https://gitlab.com/gkhlab/igdiscover22) a SnakeMake pipeline for analyzing antibody repertoires and discovers new V genes from high-throughput sequencing reads. I added multiple modules, fixed bugs, developed tests, and updated documentation.
 - [Data analysis repository](https://gitlab.com/gkhlab/macaque_vdj_gene_usage) for my work on a paper about VDJ gene usage in IgM repertoires of rhesus and cynomolgus macaques. [1st author publication.](http://doi.org/10.3389/fimmu.2021.815680)
 
-Some of the projects from my PhD over on GitLab -> [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/mchernys)
+Some of the projects from my PhD are over on GitLab -> [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/mchernys)
