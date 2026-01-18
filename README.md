@@ -9,9 +9,9 @@
 
 ## Projects
 - [CHMMAIRRa.jl](https://github.com/MurrellGroup/CHMMAIRRa.jl) is a method for reference-based detection of chimeric adaptive immune receptor repertoire (AIRR) sequences. Available as officially registered Julia package. [Bioinformatics, 1st author.](https://doi.org/10.1093/bioinformatics/btaf576)
+- [IgDiscover](https://gitlab.com/gkhlab/igdiscover22) is a SnakeMake pipeline for analyzing antibody repertoires and discovers new V genes from high-throughput sequencing reads. I added multiple modules, fixed bugs, developed tests, and updated documentation.
 - [Data analysis repository](https://gitlab.com/gkhlab/large-scale-variation-human-t-cell-receptor-genes) for my work on a paper where we discovered 4 TCR alleles introgressed from archaic humans we well as doubled the number of the known TCR alleles. [Immunity, 2nd author.](http://doi.org/10.1016/j.immuni.2023.01.026)
 - [Data analysis repository](https://gitlab.com/gkhlab/vaccination_of_sars-cov-2_convalescents) for my work on a paper where I analyzed monoclonal and repertoire antibody sequencing data to provide mechanistic insight into how vaccination re-elicits infection-induced antibodies. [Nature Communications, 1st author.](https://doi.org/10.1038/s41467-023-37972-1)
-- [IgDiscover](https://gitlab.com/gkhlab/igdiscover22) a SnakeMake pipeline for analyzing antibody repertoires and discovers new V genes from high-throughput sequencing reads. I added multiple modules, fixed bugs, developed tests, and updated documentation.
 - [Data analysis repository](https://gitlab.com/gkhlab/macaque_vdj_gene_usage) for my work on a paper about VDJ gene usage in IgM repertoires of rhesus and cynomolgus macaques. [1st author publication.](http://doi.org/10.3389/fimmu.2021.815680)
 
 Some of the projects from my PhD are over on GitLab -> [![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/mchernys)
